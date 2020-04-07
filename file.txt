@@ -1,2 +1,5 @@
 commiter 2 commit
 resolve conflict
+edit commit
+stash test
+
