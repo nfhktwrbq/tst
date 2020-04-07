@@ -1,2 +1,3 @@
 first commiter message
 edit1
+my edit before stash
